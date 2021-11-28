@@ -3,8 +3,8 @@
 
 
 - 🔭.  Eu escolho a cada agora o que quero no futuro e tenho a sabedoria de aceitar o que já é.
-- 💻   Trabalho especificamente com projetos Flutter
-- 🎯   Atualmente me dedico exclusivamente ao desenvolvimentos de projetos Flutter.
+- 💻   Trabalho especificamente com desenvolvimento de aplicativos mobile, web e desktop. 
+- 🎯   Atualmente me dedico exclusivamente ao desenvolvimentos de projetos no framework Flutter.
 - 📲   No meu perfil você vai encontrar projetos os quais desenvolvi para fins de aprendizado e aprimoramento.
 - 🚀   Estou aberto a oportunidades de trabalho na área de desenvolvimento Flutter.
 - 📫   Para contatos <a class="url" href="https://api.whatsapp.com/send?phone=5538999400046/" img> Whatsapp 38 9 9940-0046 </a>:  ou me envie um e-mail: higorgustavo@gmail.com
