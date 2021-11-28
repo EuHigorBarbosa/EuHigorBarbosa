@@ -1,5 +1,5 @@
-<h1 align="center"> Olá pra você... Seja bem vindo ao meu perfil!! 👋 <br/><br/>
- Welcome to my profile 👋</h1>
+<h2 align="center"> Olá pra você... Seja bem vindo ao meu perfil!! 👋 <br/><br/>
+ Welcome to my profile 👋</h2>
 
 
 - 🔭.  Eu escolho a cada agora o que quero no futuro e tenho a sabedoria de aceitar o que já é.
