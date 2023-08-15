@@ -11,7 +11,7 @@
 
 <h3 align="center">
 <img  height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-_   Front-end Developer Jr   _  
+_   Front-end Developer / Back-end with Firebase   _  
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </h3>
 
